@@ -1,0 +1,7 @@
+.divBienvenido {
+    display: flex;
+    background-color: #fcff4f;
+    padding: 1em;
+    margin: 5px;
+    border-radius: 5%;
+}
