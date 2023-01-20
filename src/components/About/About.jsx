@@ -2,8 +2,8 @@ export function About(){
     return (
         <>
             <div>
-                <span>Hola soy un pobre pibe haciendo esta tarea</span>
-                <span>Y esta tarea es de rick and morty y muy bonita</span>
+                <span>Texto de prueba</span>
+                <span>Texto de prueba x2</span>
             </div>
         </>
     )
